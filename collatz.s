@@ -1,7 +1,7 @@
 /* collatz.s */
 /* calculates a given collatz sequence  */
 /* followed tutorials on cburch.com and microdigitaled.com */
-.global main		/* have to do this */
+.global main			/* have to do this */
 
 main:
   	mov r0, #100		/* set n=100 in r0 */
