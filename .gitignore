@@ -1,1 +1,7 @@
+#ignore everything...
+*
+
+#...except source code
 !*.s
+#...and readme
+!README.md
